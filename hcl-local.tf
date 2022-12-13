@@ -1,3 +1,5 @@
+# Terraform locals outputs using for expression
+
 terraform {
   required_providers {
     local = {
